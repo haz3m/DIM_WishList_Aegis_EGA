@@ -1,5 +1,5 @@
 title:Wish list based on Aegis EndGame analysis rank S & A only
-description:update version 2025.02.17 https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/htmlview?gid=346832350#
+description:update version 2025.02.17 link to Aegis spreadsheet : https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/htmlview?gid=346832350#
 
 // Word of Crota (S Tier)
 //notes: tags:S Tier
