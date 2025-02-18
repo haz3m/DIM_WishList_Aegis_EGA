@@ -1,122 +1,162 @@
 title:Wish list based on Aegis EndGame analysis rank S & A only
 description:update version 2025.02.18 link to Aegis spreadsheet : https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/htmlview?gid=346832350#
 
-// Word of Crota (S Tier)
-//notes: tags:S Tier
+// Word of Crota (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=120706239&perks=776531651,2048641572
 dimwishlist:item=120706239&perks=776531651,1926441324
 dimwishlist:item=120706239&perks=2541826827,2048641572
 dimwishlist:item=120706239&perks=2541826827,1926441324
 
 
-// Word of Crota (S Tier)
-//notes: tags:S Tier
+// Word of Crota (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=120706239&perks=2848615171,2048641572
 dimwishlist:item=120706239&perks=2848615171,1926441324
 dimwishlist:item=120706239&perks=169755979,2048641572
 dimwishlist:item=120706239&perks=169755979,1926441324
 
 
-// Word of Crota (S Tier)
-//notes: tags:S Tier
+// Word of Crota (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=120706239&perks=3828510309,2048641572
 dimwishlist:item=120706239&perks=3828510309,1926441324
 dimwishlist:item=120706239&perks=1771736209,2048641572
 dimwishlist:item=120706239&perks=1771736209,1926441324
 
 
-// Omniscient Eye (A Tier)
-//notes: tags:A Tier
+// Omniscient Eye (pve)
+//notes: tags:pve
 dimwishlist:item=147444292&perks=1354429876,555281244
 dimwishlist:item=147444292&perks=1354429876,332733060
 dimwishlist:item=147444292&perks=848860060,555281244
 dimwishlist:item=147444292&perks=848860060,332733060
 
 
-// Omniscient Eye (A Tier)
-//notes: tags:A Tier
+// Omniscient Eye (pve)
+//notes: tags:pve
 dimwishlist:item=147444292&perks=3987942396,1546637391
 dimwishlist:item=147444292&perks=3987942396,3418165135
 dimwishlist:item=147444292&perks=2817499044,1546637391
 dimwishlist:item=147444292&perks=2817499044,3418165135
 
 
-// Joxer's Longsword (S Tier)
-//notes: tags:S Tier
+// Joxer's Longsword (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=157601190&perks=776531651,2048641572
 dimwishlist:item=157601190&perks=776531651,1926441324
 dimwishlist:item=157601190&perks=2541826827,2048641572
 dimwishlist:item=157601190&perks=2541826827,1926441324
 
 
-// Joxer's Longsword (S Tier)
-//notes: tags:S Tier
+// Joxer's Longsword (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=157601190&perks=3523296417,2048641572
 dimwishlist:item=157601190&perks=3523296417,1926441324
 dimwishlist:item=157601190&perks=1906147653,2048641572
 dimwishlist:item=157601190&perks=1906147653,1926441324
 
 
-// Joxer's Longsword (S Tier)
-//notes: tags:S Tier
+// Joxer's Longsword (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=157601190&perks=2848615171,2048641572
 dimwishlist:item=157601190&perks=2848615171,1926441324
 dimwishlist:item=157601190&perks=169755979,2048641572
 dimwishlist:item=157601190&perks=169755979,1926441324
 
 
-// Joxer's Longsword (S Tier)
-//notes: tags:S Tier
+// Joxer's Longsword (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=157601190&perks=2848615171,1464081238
 dimwishlist:item=157601190&perks=2848615171,2813913866
 dimwishlist:item=157601190&perks=169755979,1464081238
 dimwishlist:item=157601190&perks=169755979,2813913866
 
 
-// Joxer's Longsword (S Tier)
-//notes: tags:S Tier
+// Joxer's Longsword (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=157601190&perks=3523296417,1464081238
 dimwishlist:item=157601190&perks=3523296417,2813913866
 dimwishlist:item=157601190&perks=1906147653,1464081238
 dimwishlist:item=157601190&perks=1906147653,2813913866
 
 
-// Joxer's Longsword (S Tier)
-//notes: tags:S Tier
+// Joxer's Longsword (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=157601190&perks=776531651,1464081238
 dimwishlist:item=157601190&perks=776531651,2813913866
 dimwishlist:item=157601190&perks=2541826827,1464081238
 dimwishlist:item=157601190&perks=2541826827,2813913866
 
 
-// Critical Anomaly (Adept) (S Tier)
-//notes: tags:S Tier
+// Critical Anomaly (Adept) (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=172461430&perks=3418782618,3640170453
 dimwishlist:item=172461430&perks=3418782618,1817983009
 dimwishlist:item=172461430&perks=1563455254,3640170453
 dimwishlist:item=172461430&perks=1563455254,1817983009
 
 
-// Critical Anomaly (Adept) (S Tier)
-//notes: tags:S Tier
+// Critical Anomaly (Adept) (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=172461430&perks=2978966579,3640170453
 dimwishlist:item=172461430&perks=2978966579,1817983009
 dimwishlist:item=172461430&perks=344235611,3640170453
 dimwishlist:item=172461430&perks=344235611,1817983009
 
 
-// The Deicide (A Tier)
-//notes: tags:A Tier
+// Hung Jury SR4 (pve)
+//notes: tags:pve
+dimwishlist:item=205225492&perks=3891536761,3824105627
+dimwishlist:item=205225492&perks=3891536761,3038247973
+dimwishlist:item=205225492&perks=3891536761,4049631843
+dimwishlist:item=205225492&perks=3891536761,1183436451
+dimwishlist:item=205225492&perks=3891536761,64866129
+dimwishlist:item=205225492&perks=3891536761,859780267
+dimwishlist:item=205225492&perks=3700496672,3824105627
+dimwishlist:item=205225492&perks=3700496672,3038247973
+dimwishlist:item=205225492&perks=3700496672,4049631843
+dimwishlist:item=205225492&perks=3700496672,1183436451
+dimwishlist:item=205225492&perks=3700496672,64866129
+dimwishlist:item=205225492&perks=3700496672,859780267
+dimwishlist:item=205225492&perks=3828510309,3824105627
+dimwishlist:item=205225492&perks=3828510309,3038247973
+dimwishlist:item=205225492&perks=3828510309,4049631843
+dimwishlist:item=205225492&perks=3828510309,1183436451
+dimwishlist:item=205225492&perks=3828510309,64866129
+dimwishlist:item=205225492&perks=3828510309,859780267
+dimwishlist:item=205225492&perks=1549370717,3824105627
+dimwishlist:item=205225492&perks=1549370717,3038247973
+dimwishlist:item=205225492&perks=1549370717,4049631843
+dimwishlist:item=205225492&perks=1549370717,1183436451
+dimwishlist:item=205225492&perks=1549370717,64866129
+dimwishlist:item=205225492&perks=1549370717,859780267
+dimwishlist:item=205225492&perks=2840833776,3824105627
+dimwishlist:item=205225492&perks=2840833776,3038247973
+dimwishlist:item=205225492&perks=2840833776,4049631843
+dimwishlist:item=205225492&perks=2840833776,1183436451
+dimwishlist:item=205225492&perks=2840833776,64866129
+dimwishlist:item=205225492&perks=2840833776,859780267
+dimwishlist:item=205225492&perks=1771736209,3824105627
+dimwishlist:item=205225492&perks=1771736209,3038247973
+dimwishlist:item=205225492&perks=1771736209,4049631843
+dimwishlist:item=205225492&perks=1771736209,1183436451
+dimwishlist:item=205225492&perks=1771736209,64866129
+dimwishlist:item=205225492&perks=1771736209,859780267
+
+
+// The Deicide (pve)
+//notes: tags:pve
 dimwishlist:item=217140611&perks=1556840489,3523296417
 
 
-// The Deicide (A Tier)
-//notes: tags:A Tier
+// The Deicide (pve)
+//notes: tags:pve
 dimwishlist:item=217140611&perks=1631667848,2679249093
 
 
-// Nezarec's Whisper (S Tier)
-//notes: tags:S Tier
+// Nezarec's Whisper (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=254636484&perks=3523296417,4104185692
 dimwishlist:item=254636484&perks=3523296417,3007133316
 dimwishlist:item=254636484&perks=951095735,4104185692
@@ -131,8 +171,8 @@ dimwishlist:item=254636484&perks=3442762221,4104185692
 dimwishlist:item=254636484&perks=3442762221,3007133316
 
 
-// Imperial Decree (A Tier)
-//notes: tags:A Tier
+// Imperial Decree (pve)
+//notes: tags:pve
 dimwishlist:item=318443586&perks=3300816228,3708227201
 dimwishlist:item=318443586&perks=3300816228,781192741
 dimwishlist:item=318443586&perks=3300816228,2360754333
@@ -143,16 +183,16 @@ dimwishlist:item=318443586&perks=3528046508,2360754333
 dimwishlist:item=318443586&perks=3528046508,2459015849
 
 
-// Vision of Confluence (Timelost) (A Tier)
-//notes: tags:A Tier
+// Vision of Confluence (Timelost) (pve)
+//notes: tags:pve
 dimwishlist:item=337578911&perks=3017780555,4104185692
 dimwishlist:item=337578911&perks=3017780555,3007133316
 dimwishlist:item=337578911&perks=4223976499,4104185692
 dimwishlist:item=337578911&perks=4223976499,3007133316
 
 
-// Vision of Confluence (Timelost) (A Tier)
-//notes: tags:A Tier
+// Vision of Confluence (Timelost) (pve)
+//notes: tags:pve
 dimwishlist:item=337578911&perks=3418782618,3824105627
 dimwishlist:item=337578911&perks=3418782618,1183436451
 dimwishlist:item=337578911&perks=3418782618,4104185692
@@ -167,8 +207,8 @@ dimwishlist:item=337578911&perks=1563455254,3038247973
 dimwishlist:item=337578911&perks=1563455254,64866129
 
 
-// Vision of Confluence (Timelost) (A Tier)
-//notes: tags:A Tier
+// Vision of Confluence (Timelost) (pve)
+//notes: tags:pve
 dimwishlist:item=337578911&perks=4293542123,3824105627
 dimwishlist:item=337578911&perks=4293542123,1183436451
 dimwishlist:item=337578911&perks=4293542123,4104185692
@@ -183,27 +223,27 @@ dimwishlist:item=337578911&perks=2675184851,3038247973
 dimwishlist:item=337578911&perks=2675184851,64866129
 
 
-// Vouchsafe (S Tier)
-//notes: tags:S Tier
+// Vouchsafe (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=355922321&perks=776531651,2048641572
 
 
-// Vouchsafe (S Tier)
-//notes: tags:S Tier
+// Vouchsafe (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=355922321&perks=247725512,3038247973
 dimwishlist:item=355922321&perks=247725512,2848615171
 
 
-// Song of Ir Yût (Adept) (S Tier)
-//notes: tags:S Tier
+// Song of Ir Yût (Adept) (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=407511664&perks=3523296417,31345821
 dimwishlist:item=407511664&perks=3523296417,639190697
 dimwishlist:item=407511664&perks=1906147653,31345821
 dimwishlist:item=407511664&perks=1906147653,639190697
 
 
-// Song of Ir Yût (Adept) (S Tier)
-//notes: tags:S Tier
+// Song of Ir Yût (Adept) (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=407511664&perks=1523832109,3751912585
 dimwishlist:item=407511664&perks=1523832109,3078487919
 dimwishlist:item=407511664&perks=1523832109,331667533
@@ -214,8 +254,8 @@ dimwishlist:item=407511664&perks=461595545,331667533
 dimwishlist:item=407511664&perks=461595545,3744057135
 
 
-// Speleologist (A Tier)
-//notes: tags:A Tier
+// Speleologist (pve)
+//notes: tags:pve
 dimwishlist:item=412251536&perks=968510818,4293542123
 dimwishlist:item=412251536&perks=968510818,557221067
 dimwishlist:item=412251536&perks=968510818,4049631843
@@ -254,8 +294,8 @@ dimwishlist:item=412251536&perks=1164602481,2896748467
 dimwishlist:item=412251536&perks=1164602481,859780267
 
 
-// Insurmountable (S Tier)
-//notes: tags:S Tier
+// Insurmountable (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=414045521&perks=776531651,2048641572
 dimwishlist:item=414045521&perks=776531651,3708227201
 dimwishlist:item=414045521&perks=776531651,1926441324
@@ -282,8 +322,8 @@ dimwishlist:item=414045521&perks=1906147653,1926441324
 dimwishlist:item=414045521&perks=1906147653,781192741
 
 
-// Age-Old Bond (A Tier)
-//notes: tags:A Tier
+// Age-Old Bond (pve)
+//notes: tags:pve
 dimwishlist:item=424291879&perks=776531651,2048641572
 dimwishlist:item=424291879&perks=776531651,1926441324
 dimwishlist:item=424291879&perks=2541826827,2048641572
@@ -294,8 +334,8 @@ dimwishlist:item=424291879&perks=169755979,2048641572
 dimwishlist:item=424291879&perks=169755979,1926441324
 
 
-// Zaouli's Bane (A Tier)
-//notes: tags:A Tier
+// Zaouli's Bane (pve)
+//notes: tags:pve
 dimwishlist:item=431721920&perks=3038247973,4293542123
 dimwishlist:item=431721920&perks=3038247973,2675184851
 dimwishlist:item=431721920&perks=3038247973,4049631843
@@ -306,8 +346,8 @@ dimwishlist:item=431721920&perks=64866129,4049631843
 dimwishlist:item=431721920&perks=64866129,859780267
 
 
-// Darkest Before (A Tier)
-//notes: tags:A Tier
+// Darkest Before (pve)
+//notes: tags:pve
 dimwishlist:item=435821040&perks=3017780555,4293542123
 dimwishlist:item=435821040&perks=3017780555,2402480669
 dimwishlist:item=435821040&perks=243981275,4293542123
@@ -318,8 +358,8 @@ dimwishlist:item=435821040&perks=984655331,4293542123
 dimwishlist:item=435821040&perks=984655331,2402480669
 
 
-// Critical Anomaly (S Tier)
-//notes: tags:S Tier
+// Critical Anomaly (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=445197843&perks=2978966579,3640170453
 dimwishlist:item=445197843&perks=2978966579,1817983009
 dimwishlist:item=445197843&perks=3418782618,3640170453
@@ -330,8 +370,8 @@ dimwishlist:item=445197843&perks=1563455254,3640170453
 dimwishlist:item=445197843&perks=1563455254,1817983009
 
 
-// Tinasha's Mastery (S Tier)
-//notes: tags:S Tier
+// Tinasha's Mastery (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=480368036&perks=1421772400,2978966579
 dimwishlist:item=480368036&perks=1421772400,3708227201
 dimwishlist:item=480368036&perks=1421772400,2109543898
@@ -370,8 +410,8 @@ dimwishlist:item=480368036&perks=1164602481,781192741
 dimwishlist:item=480368036&perks=1164602481,2799030358
 
 
-// Drang (Baroque) (A Tier)
-//notes: tags:A Tier
+// Drang (Baroque) (pve)
+//notes: tags:pve
 dimwishlist:item=502356570&perks=3592538738,4293542123
 dimwishlist:item=502356570&perks=3592538738,2675184851
 dimwishlist:item=502356570&perks=3592538738,4082225868
@@ -390,8 +430,8 @@ dimwishlist:item=502356570&perks=2216471363,4082225868
 dimwishlist:item=502356570&perks=2216471363,1161469972
 
 
-// Forthcoming Deviance (S Tier)
-//notes: tags:S Tier
+// Forthcoming Deviance (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=535198113&perks=951095735,1782407750
 dimwishlist:item=535198113&perks=951095735,2241043034
 dimwishlist:item=535198113&perks=951095735,3640170453
@@ -430,8 +470,8 @@ dimwishlist:item=535198113&perks=1906147653,2396489472
 dimwishlist:item=535198113&perks=1906147653,598607952
 
 
-// Abyssal Edge (A Tier)
-//notes: tags:A Tier
+// Abyssal Edge (pve)
+//notes: tags:pve
 dimwishlist:item=547165496&perks=1749209109,1089671869
 dimwishlist:item=547165496&perks=1749209109,3201496230
 dimwishlist:item=547165496&perks=1749209109,3708227201
@@ -446,8 +486,8 @@ dimwishlist:item=547165496&perks=4085959009,1545231802
 dimwishlist:item=547165496&perks=4085959009,781192741
 
 
-// Retraced Path (A Tier)
-//notes: tags:A Tier
+// Retraced Path (pve)
+//notes: tags:pve
 dimwishlist:item=548958835&perks=3700496672,3523296417
 dimwishlist:item=548958835&perks=3700496672,4104185692
 dimwishlist:item=548958835&perks=3700496672,4293542123
@@ -462,8 +502,8 @@ dimwishlist:item=548958835&perks=2840833776,3007133316
 dimwishlist:item=548958835&perks=2840833776,2675184851
 
 
-// Forbearance (A Tier)
-//notes: tags:A Tier
+// Forbearance (pve)
+//notes: tags:pve
 dimwishlist:item=568611921&perks=2010801679,2396489472
 dimwishlist:item=568611921&perks=2010801679,3592538738
 dimwishlist:item=568611921&perks=2010801679,598607952
@@ -490,8 +530,8 @@ dimwishlist:item=568611921&perks=3797647183,598607952
 dimwishlist:item=568611921&perks=3797647183,2675361166
 
 
-// The Mountaintop (S Tier)
-//notes: tags:S Tier
+// The Mountaintop (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=568611922&perks=3300816228,4104185692
 dimwishlist:item=568611922&perks=3300816228,3007133316
 dimwishlist:item=568611922&perks=3300816228,469285294
@@ -530,8 +570,8 @@ dimwishlist:item=568611922&perks=3878366039,1546637391
 dimwishlist:item=568611922&perks=3878366039,3418165135
 
 
-// Edge Transit (A Tier)
-//notes: tags:A Tier
+// Edge Transit (pve)
+//notes: tags:pve
 dimwishlist:item=568611923&perks=968510818,3078487919
 dimwishlist:item=568611923&perks=968510818,3194351027
 dimwishlist:item=568611923&perks=968510818,3993379141
@@ -570,8 +610,8 @@ dimwishlist:item=568611923&perks=598607952,2275087323
 dimwishlist:item=568611923&perks=598607952,1164602481
 
 
-// Forbearance (A Tier)
-//notes: tags:A Tier
+// Forbearance (pve)
+//notes: tags:pve
 dimwishlist:item=613334176&perks=3108830275,2396489472
 dimwishlist:item=613334176&perks=3108830275,598607952
 dimwishlist:item=613334176&perks=3108830275,3592538738
@@ -590,8 +630,8 @@ dimwishlist:item=613334176&perks=843318450,3592538738
 dimwishlist:item=613334176&perks=843318450,2675361166
 
 
-// The Title (S Tier)
-//notes: tags:S Tier
+// The Title (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=655712834&perks=776531651,2048641572
 dimwishlist:item=655712834&perks=776531651,781192741
 dimwishlist:item=655712834&perks=776531651,3708227201
@@ -610,8 +650,8 @@ dimwishlist:item=655712834&perks=2541826827,3708227201
 dimwishlist:item=655712834&perks=2541826827,1926441324
 
 
-// Cynosure (S Tier)
-//notes: tags:S Tier
+// Cynosure (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=694275488&perks=3987942396,1089671869
 dimwishlist:item=694275488&perks=3987942396,3194351027
 dimwishlist:item=694275488&perks=3987942396,1439600632
@@ -650,8 +690,8 @@ dimwishlist:item=694275488&perks=3563868667,2275087323
 dimwishlist:item=694275488&perks=3563868667,2282937672
 
 
-// Noxious Vetiver (A Tier)
-//notes: tags:A Tier
+// Noxious Vetiver (pve)
+//notes: tags:pve
 dimwishlist:item=825495813&perks=1119449540,3966416502
 dimwishlist:item=825495813&perks=1119449540,717070634
 dimwishlist:item=825495813&perks=243981275,3966416502
@@ -666,8 +706,8 @@ dimwishlist:item=825495813&perks=536173722,3966416502
 dimwishlist:item=825495813&perks=536173722,717070634
 
 
-// Abyss Defiant (A Tier)
-//notes: tags:A Tier
+// Abyss Defiant (pve)
+//notes: tags:pve
 dimwishlist:item=833898322&perks=3017780555,4293542123
 dimwishlist:item=833898322&perks=3017780555,2675184851
 dimwishlist:item=833898322&perks=4223976499,4293542123
@@ -678,14 +718,14 @@ dimwishlist:item=833898322&perks=1771736209,4293542123
 dimwishlist:item=833898322&perks=1771736209,2675184851
 
 
-// Cold Comfort (A Tier)
-//notes: tags:A Tier
+// Cold Comfort (pve)
+//notes: tags:pve
 dimwishlist:item=839786290&perks=968510818,1439600632
 dimwishlist:item=839786290&perks=968510818,3078487919
 
 
-// Nullify (S Tier)
-//notes: tags:S Tier
+// Nullify (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=859869931&perks=3824105627,4293542123
 dimwishlist:item=859869931&perks=3824105627,3640170453
 dimwishlist:item=859869931&perks=3824105627,243981275
@@ -724,8 +764,8 @@ dimwishlist:item=859869931&perks=1906147653,1817983009
 dimwishlist:item=859869931&perks=1906147653,984655331
 
 
-// Unwavering Duty (A Tier)
-//notes: tags:A Tier
+// Unwavering Duty (pve)
+//notes: tags:pve
 dimwishlist:item=906840740&perks=3300816228,4293542123
 dimwishlist:item=906840740&perks=3300816228,557221067
 dimwishlist:item=906840740&perks=3300816228,3751912585
@@ -737,30 +777,30 @@ dimwishlist:item=906840740&perks=2869569095,557221067
 dimwishlist:item=906840740&perks=2869569095,3751912585
 
 
-// Ancient Gospel (A Tier)
-//notes: tags:A Tier
+// Ancient Gospel (pve)
+//notes: tags:pve
 dimwishlist:item=963574173&perks=2048641572,3038247973
 dimwishlist:item=963574173&perks=2048641572,64866129
 dimwishlist:item=963574173&perks=1926441324,3038247973
 dimwishlist:item=963574173&perks=1926441324,64866129
 
 
-// Cataclysmic (A Tier)
-//notes: tags:A Tier
+// Cataclysmic (pve)
+//notes: tags:pve
 dimwishlist:item=999767358&perks=1354429876,3078487919
 dimwishlist:item=999767358&perks=1354429876,3744057135
 dimwishlist:item=999767358&perks=848860060,3078487919
 dimwishlist:item=999767358&perks=848860060,3744057135
 
 
-// One Small Step (A Tier)
-//notes: tags:A Tier
+// One Small Step (pve)
+//notes: tags:pve
 dimwishlist:item=1016668089&perks=3300816228,2679249093
 dimwishlist:item=1016668089&perks=1556840489,2679249093
 
 
-// The Recluse (S Tier)
-//notes: tags:S Tier
+// The Recluse (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=1050806815&perks=776531651,2048641572
 dimwishlist:item=1050806815&perks=776531651,3708227201
 dimwishlist:item=1050806815&perks=776531651,1926441324
@@ -779,14 +819,14 @@ dimwishlist:item=1050806815&perks=3828510309,1926441324
 dimwishlist:item=1050806815&perks=3828510309,781192741
 
 
-// Anonymous Autumn (A Tier)
-//notes: tags:A Tier
+// Anonymous Autumn (pve)
+//notes: tags:pve
 dimwishlist:item=1051949956&perks=684456054,2173046394
 dimwishlist:item=1051949956&perks=3523296417,2173046394
 
 
-// Timeworn Wayfarer (S Tier)
-//notes: tags:S Tier
+// Timeworn Wayfarer (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=1058098236&perks=3017780555,4293542123
 dimwishlist:item=1058098236&perks=3017780555,2675184851
 dimwishlist:item=1058098236&perks=3700496672,4293542123
@@ -812,8 +852,8 @@ dimwishlist:item=1098171824&perks=1906147653,2173046394
 dimwishlist:item=1098171824&perks=1906147653,1720528630
 
 
-// IKELOS_SG_v1.0.3 (S Tier)
-//notes: tags:S Tier
+// IKELOS_SG_v1.0.3 (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=1168625549&perks=1631667848,2679249093
 dimwishlist:item=1168625549&perks=1631667848,3708227201
 dimwishlist:item=1168625549&perks=1631667848,3751912585
@@ -852,8 +892,8 @@ dimwishlist:item=1168625549&perks=494941759,781192741
 dimwishlist:item=1168625549&perks=494941759,331667533
 
 
-// Doom of Chelchis (Harrowed) (A Tier)
-//notes: tags:A Tier
+// Doom of Chelchis (Harrowed) (pve)
+//notes: tags:pve
 dimwishlist:item=1184692845&perks=3824105627,4104185692
 dimwishlist:item=1184692845&perks=3824105627,4049631843
 dimwishlist:item=1184692845&perks=3824105627,2848615171
@@ -880,8 +920,8 @@ dimwishlist:item=1184692845&perks=1183436451,859780267
 dimwishlist:item=1184692845&perks=1183436451,169755979
 
 
-// Lost Signal (S Tier)
-//notes: tags:S Tier
+// Lost Signal (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=1197771438&perks=3300816228,1546637391
 dimwishlist:item=1197771438&perks=3300816228,3418165135
 dimwishlist:item=1197771438&perks=3300816228,3523296417
@@ -908,8 +948,8 @@ dimwishlist:item=1197771438&perks=3442762221,4049631843
 dimwishlist:item=1197771438&perks=3442762221,859780267
 
 
-// Exalted Truth (Adept) (A Tier)
-//notes: tags:A Tier
+// Exalted Truth (Adept) (pve)
+//notes: tags:pve
 dimwishlist:item=1201528146&perks=2048641572,776531651
 dimwishlist:item=1201528146&perks=2048641572,2541826827
 dimwishlist:item=1201528146&perks=2048641572,4049631843
@@ -924,8 +964,8 @@ dimwishlist:item=1201528146&perks=1926441324,1464081238
 dimwishlist:item=1201528146&perks=1926441324,2813913866
 
 
-// Maahes HC4 (A Tier)
-//notes: tags:A Tier
+// Maahes HC4 (pve)
+//notes: tags:pve
 dimwishlist:item=1246793994&perks=776531651,2048641572
 dimwishlist:item=1246793994&perks=776531651,2848615171
 dimwishlist:item=1246793994&perks=776531651,1926441324
@@ -944,8 +984,8 @@ dimwishlist:item=1246793994&perks=1771736209,1926441324
 dimwishlist:item=1246793994&perks=1771736209,169755979
 
 
-// Imminence (A Tier)
-//notes: tags:A Tier
+// Imminence (pve)
+//notes: tags:pve
 dimwishlist:item=1258168956&perks=3828510309,3824105627
 dimwishlist:item=1258168956&perks=3828510309,3640170453
 dimwishlist:item=1258168956&perks=3828510309,831391274
@@ -984,8 +1024,8 @@ dimwishlist:item=1258168956&perks=3422796781,1817983009
 dimwishlist:item=1258168956&perks=3422796781,102912326
 
 
-// The Summoner (Adept) (A Tier)
-//notes: tags:A Tier
+// The Summoner (Adept) (pve)
+//notes: tags:pve
 dimwishlist:item=1292594730&perks=3017780555,4293542123
 dimwishlist:item=1292594730&perks=3017780555,95528736
 dimwishlist:item=1292594730&perks=3017780555,2675184851
@@ -996,8 +1036,8 @@ dimwishlist:item=1292594730&perks=4223976499,2675184851
 dimwishlist:item=1292594730&perks=4223976499,956288240
 
 
-// Perfect Paradox (S Tier)
-//notes: tags:S Tier
+// Perfect Paradox (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=1298672084&perks=2869569095,2679249093
 dimwishlist:item=1298672084&perks=2869569095,2360754333
 dimwishlist:item=1298672084&perks=2869569095,1546637391
@@ -1036,16 +1076,16 @@ dimwishlist:item=1298672084&perks=494941759,2459015849
 dimwishlist:item=1298672084&perks=494941759,3418165135
 
 
-// Brigand's Law (A Tier)
-//notes: tags:A Tier
+// Brigand's Law (pve)
+//notes: tags:pve
 dimwishlist:item=1298815317&perks=4071163871,2173046394
 dimwishlist:item=1298815317&perks=4071163871,1720528630
 dimwishlist:item=1298815317&perks=494941759,2173046394
 dimwishlist:item=1298815317&perks=494941759,1720528630
 
 
-// Brigand's Law (A Tier)
-//notes: tags:A Tier
+// Brigand's Law (pve)
+//notes: tags:pve
 dimwishlist:item=1298815317&perks=691659142,4082225868
 dimwishlist:item=1298815317&perks=691659142,1161469972
 dimwishlist:item=1298815317&perks=536173722,4082225868
@@ -1059,8 +1099,8 @@ dimwishlist:item=1298815317&perks=1171147302,2173046394
 dimwishlist:item=1298815317&perks=1171147302,1720528630
 
 
-// Unsworn (S Tier)
-//notes: tags:S Tier
+// Unsworn (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=1303313141&perks=3700496672,4198902903
 dimwishlist:item=1303313141&perks=3700496672,1089671869
 dimwishlist:item=1303313141&perks=3700496672,831391274
@@ -1099,8 +1139,8 @@ dimwishlist:item=1303313141&perks=1563455254,496047945
 dimwishlist:item=1303313141&perks=1563455254,102912326
 
 
-// The Slammer (Adept) (S Tier)
-//notes: tags:S Tier
+// The Slammer (Adept) (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=1354727549&perks=2077819806,3650930298
 dimwishlist:item=1354727549&perks=2077819806,405677814
 dimwishlist:item=1354727549&perks=2077819806,3523296417
@@ -1111,8 +1151,8 @@ dimwishlist:item=1354727549&perks=1618208178,3523296417
 dimwishlist:item=1354727549&perks=1618208178,1906147653
 
 
-// Trustee (S Tier)
-//notes: tags:S Tier
+// Trustee (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=1392919471&perks=247725512,4293542123
 dimwishlist:item=1392919471&perks=247725512,2675184851
 dimwishlist:item=1392919471&perks=1523832109,4293542123
@@ -1123,8 +1163,8 @@ dimwishlist:item=1392919471&perks=461595545,4293542123
 dimwishlist:item=1392919471&perks=461595545,2675184851
 
 
-// Hung Jury SR4 (A Tier)
-//notes: tags:A Tier
+// Hung Jury SR4 (pve)
+//notes: tags:pve
 dimwishlist:item=1453235079&perks=3891536761,3824105627
 dimwishlist:item=1453235079&perks=3891536761,3038247973
 dimwishlist:item=1453235079&perks=3891536761,4049631843
@@ -1163,8 +1203,8 @@ dimwishlist:item=1453235079&perks=1771736209,64866129
 dimwishlist:item=1453235079&perks=1771736209,859780267
 
 
-// Briar's Contempt (A Tier)
-//notes: tags:A Tier
+// Briar's Contempt (pve)
+//notes: tags:pve
 dimwishlist:item=1491665733&perks=3418782618,2896038713
 dimwishlist:item=1491665733&perks=3418782618,3708227201
 dimwishlist:item=1491665733&perks=3418782618,2402480669
@@ -1175,8 +1215,8 @@ dimwishlist:item=1491665733&perks=1563455254,2402480669
 dimwishlist:item=1491665733&perks=1563455254,781192741
 
 
-// Scintillation (Adept) (S Tier)
-//notes: tags:S Tier
+// Scintillation (Adept) (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=1492522228&perks=3418782618,3708227201
 dimwishlist:item=1492522228&perks=3418782618,3078487919
 dimwishlist:item=1492522228&perks=3418782618,3744057135
@@ -1195,8 +1235,8 @@ dimwishlist:item=1492522228&perks=1008128453,3744057135
 dimwishlist:item=1492522228&perks=1008128453,781192741
 
 
-// Doomed Petitioner (A Tier)
-//notes: tags:A Tier
+// Doomed Petitioner (pve)
+//notes: tags:pve
 dimwishlist:item=1501688142&perks=968510818,3708227201
 dimwishlist:item=1501688142&perks=968510818,781192741
 dimwishlist:item=1501688142&perks=968510818,555281244
@@ -1215,8 +1255,8 @@ dimwishlist:item=1501688142&perks=461595545,555281244
 dimwishlist:item=1501688142&perks=461595545,332733060
 
 
-// Claws of the Wolf (S Tier)
-//notes: tags:S Tier
+// Claws of the Wolf (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=1505862304&perks=776531651,2048641572
 dimwishlist:item=1505862304&perks=776531651,243981275
 dimwishlist:item=1505862304&perks=776531651,1926441324
@@ -1227,8 +1267,8 @@ dimwishlist:item=1505862304&perks=2541826827,1926441324
 dimwishlist:item=1505862304&perks=2541826827,984655331
 
 
-// Anamnesis (Adept) (A Tier)
-//notes: tags:A Tier
+// Anamnesis (Adept) (pve)
+//notes: tags:pve
 dimwishlist:item=1536325168&perks=776531651,2048641572
 dimwishlist:item=1536325168&perks=776531651,1464081238
 dimwishlist:item=1536325168&perks=776531651,3365897133
@@ -1267,8 +1307,8 @@ dimwishlist:item=1536325168&perks=3523746922,2813913866
 dimwishlist:item=1536325168&perks=3523746922,1551736345
 
 
-// Wastelander M5 (A Tier)
-//notes: tags:A Tier
+// Wastelander M5 (pve)
+//notes: tags:pve
 dimwishlist:item=1679868061&perks=1556840489,2679249093
 dimwishlist:item=1679868061&perks=1556840489,1546637391
 dimwishlist:item=1679868061&perks=1556840489,788178929
@@ -1287,8 +1327,8 @@ dimwishlist:item=1679868061&perks=536173722,788178929
 dimwishlist:item=1679868061&perks=536173722,3418165135
 
 
-// Crux Termination IV (A Tier)
-//notes: tags:A Tier
+// Crux Termination IV (pve)
+//notes: tags:pve
 dimwishlist:item=1719687748&perks=1523832109,1439600632
 dimwishlist:item=1719687748&perks=1523832109,3194351027
 dimwishlist:item=1719687748&perks=1523832109,3708227201
@@ -1327,8 +1367,8 @@ dimwishlist:item=1719687748&perks=2284787283,2275087323
 dimwishlist:item=1719687748&perks=2284787283,781192741
 
 
-// Royal Executioner (A Tier)
-//notes: tags:A Tier
+// Royal Executioner (pve)
+//notes: tags:pve
 dimwishlist:item=1720503118&perks=968510818,1427256713
 dimwishlist:item=1720503118&perks=968510818,4293542123
 dimwishlist:item=1720503118&perks=968510818,254337357
@@ -1347,8 +1387,8 @@ dimwishlist:item=1720503118&perks=3442762221,254337357
 dimwishlist:item=1720503118&perks=3442762221,2675184851
 
 
-// Watchful Eye (S Tier)
-//notes: tags:S Tier
+// Watchful Eye (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=1757177186&perks=3643424744,3966416502
 dimwishlist:item=1757177186&perks=3643424744,557221067
 dimwishlist:item=1757177186&perks=3643424744,3218042543
@@ -1375,8 +1415,8 @@ dimwishlist:item=1757177186&perks=2308090567,2896748467
 dimwishlist:item=1757177186&perks=2308090567,2633604463
 
 
-// VS Chill Inhibitor (S Tier)
-//notes: tags:S Tier
+// VS Chill Inhibitor (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=1762785662&perks=3987942396,3078487919
 dimwishlist:item=1762785662&perks=3987942396,3194351027
 dimwishlist:item=1762785662&perks=3987942396,3708227201
@@ -1415,8 +1455,8 @@ dimwishlist:item=1762785662&perks=1906147653,2275087323
 dimwishlist:item=1762785662&perks=1906147653,781192741
 
 
-// VS Velocity Baton (S Tier)
-//notes: tags:S Tier
+// VS Velocity Baton (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=1762785663&perks=776531651,2048641572
 dimwishlist:item=1762785663&perks=776531651,1926441324
 dimwishlist:item=1762785663&perks=776531651,243981275
@@ -1435,8 +1475,8 @@ dimwishlist:item=1762785663&perks=1906147653,243981275
 dimwishlist:item=1762785663&perks=1906147653,984655331
 
 
-// Non-Denouement (S Tier)
-//notes: tags:S Tier
+// Non-Denouement (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=1770490683&perks=2848615171,2173046394
 dimwishlist:item=1770490683&perks=2848615171,1720528630
 dimwishlist:item=1770490683&perks=2848615171,3640170453
@@ -1475,8 +1515,8 @@ dimwishlist:item=1770490683&perks=2840833776,3365897133
 dimwishlist:item=1770490683&perks=2840833776,1551736345
 
 
-// No Hesitation (S Tier)
-//notes: tags:S Tier
+// No Hesitation (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=1801007332&perks=2980589453,4293542123
 dimwishlist:item=1801007332&perks=2980589453,243981275
 dimwishlist:item=1801007332&perks=2980589453,2298656195
@@ -1503,8 +1543,8 @@ dimwishlist:item=1801007332&perks=1906147653,984655331
 dimwishlist:item=1801007332&perks=1906147653,674546187
 
 
-// Falling Guillotine (S Tier)
-//notes: tags:S Tier
+// Falling Guillotine (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=1815105249&perks=4104185692,2077819806
 dimwishlist:item=1815105249&perks=4104185692,3078487919
 dimwishlist:item=1815105249&perks=4104185692,3708227201
@@ -1531,8 +1571,8 @@ dimwishlist:item=1815105249&perks=598607952,3744057135
 dimwishlist:item=1815105249&perks=598607952,781192741
 
 
-// The Summoner (A Tier)
-//notes: tags:A Tier
+// The Summoner (pve)
+//notes: tags:pve
 dimwishlist:item=1820994983&perks=3017780555,4293542123
 dimwishlist:item=1820994983&perks=3017780555,95528736
 dimwishlist:item=1820994983&perks=3017780555,2675184851
@@ -1543,8 +1583,8 @@ dimwishlist:item=1820994983&perks=4223976499,2675184851
 dimwishlist:item=1820994983&perks=4223976499,956288240
 
 
-// Afterlight (A Tier)
-//notes: tags:A Tier
+// Afterlight (pve)
+//notes: tags:pve
 dimwishlist:item=1834313033&perks=3978468247,1427256713
 dimwishlist:item=1834313033&perks=3978468247,2048641572
 dimwishlist:item=1834313033&perks=3978468247,1546637391
@@ -1583,8 +1623,8 @@ dimwishlist:item=1834313033&perks=402033656,1926441324
 dimwishlist:item=1834313033&perks=402033656,3418165135
 
 
-// Apex Predator (A Tier)
-//notes: tags:A Tier
+// Apex Predator (pve)
+//notes: tags:pve
 dimwishlist:item=1851777734&perks=1523832109,3078487919
 dimwishlist:item=1851777734&perks=1523832109,3744057135
 dimwishlist:item=1851777734&perks=1523832109,781192741
@@ -1623,8 +1663,8 @@ dimwishlist:item=1851777734&perks=1906147653,2282937672
 dimwishlist:item=1851777734&perks=1906147653,1439600632
 
 
-// Chronophage (S Tier)
-//notes: tags:S Tier
+// Chronophage (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=1886840007&perks=3700496672,2048641572
 dimwishlist:item=1886840007&perks=3700496672,3523296417
 dimwishlist:item=1886840007&perks=3700496672,2109543898
@@ -1651,8 +1691,8 @@ dimwishlist:item=1886840007&perks=2541826827,1906147653
 dimwishlist:item=1886840007&perks=2541826827,2799030358
 
 
-// Keen Thistle (A Tier)
-//notes: tags:A Tier
+// Keen Thistle (pve)
+//notes: tags:pve
 dimwishlist:item=1893967086&perks=4293542123,3078487919
 dimwishlist:item=1893967086&perks=4293542123,3978468247
 dimwishlist:item=1893967086&perks=4293542123,1354429876
@@ -1691,8 +1731,8 @@ dimwishlist:item=1893967086&perks=2817499044,906981559
 dimwishlist:item=1893967086&perks=2817499044,848860060
 
 
-// Hammerhead (S Tier)
-//notes: tags:S Tier
+// Hammerhead (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=1896309757&perks=2048641572,557221067
 dimwishlist:item=1896309757&perks=2048641572,2109543898
 dimwishlist:item=1896309757&perks=2048641572,95528736
@@ -1713,8 +1753,8 @@ dimwishlist:item=1896309757&perks=848860060,2799030358
 dimwishlist:item=1896309757&perks=848860060,956288240
 
 
-// Doom of Chelchis (A Tier)
-//notes: tags:A Tier
+// Doom of Chelchis (pve)
+//notes: tags:pve
 dimwishlist:item=1937552980&perks=3824105627,4104185692
 dimwishlist:item=1937552980&perks=3824105627,3007133316
 dimwishlist:item=1937552980&perks=3824105627,4049631843
@@ -1741,8 +1781,8 @@ dimwishlist:item=1937552980&perks=64866129,169755979
 dimwishlist:item=1937552980&perks=64866129,2848615171
 
 
-// Warlord's Spear (A Tier)
-//notes: tags:A Tier
+// Warlord's Spear (pve)
+//notes: tags:pve
 dimwishlist:item=1968711238&perks=3418782618,4198902903
 dimwishlist:item=1968711238&perks=3418782618,3966416502
 dimwishlist:item=1968711238&perks=3418782618,2109543898
@@ -1769,8 +1809,8 @@ dimwishlist:item=1968711238&perks=561986700,717070634
 dimwishlist:item=1968711238&perks=561986700,2799030358
 
 
-// Qua Xaphan V (A Tier)
-//notes: tags:A Tier
+// Qua Xaphan V (pve)
+//notes: tags:pve
 dimwishlist:item=1975125963&perks=2869569095,2048641572
 dimwishlist:item=1975125963&perks=2869569095,11612903
 dimwishlist:item=1975125963&perks=2869569095,2848615171
@@ -1809,8 +1849,8 @@ dimwishlist:item=1975125963&perks=2396422520,2422968039
 dimwishlist:item=1975125963&perks=2396422520,169755979
 
 
-// Reckless Oracle (A Tier)
-//notes: tags:A Tier
+// Reckless Oracle (pve)
+//notes: tags:pve
 dimwishlist:item=1992309064&perks=2048641572,776531651
 dimwishlist:item=1992309064&perks=2048641572,2541826827
 dimwishlist:item=1992309064&perks=2048641572,4049631843
@@ -1829,8 +1869,8 @@ dimwishlist:item=1992309064&perks=1906147653,4049631843
 dimwishlist:item=1992309064&perks=1906147653,859780267
 
 
-// Summum Bonum (Adept) (S Tier)
-//notes: tags:S Tier
+// Summum Bonum (Adept) (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=2001697739&perks=4085959009,3640170453
 dimwishlist:item=2001697739&perks=4085959009,3708227201
 dimwishlist:item=2001697739&perks=4085959009,1817983009
@@ -1869,8 +1909,8 @@ dimwishlist:item=2001697739&perks=243981275,3913600130
 dimwishlist:item=2001697739&perks=243981275,147913470
 
 
-// Shayura's Wrath (A Tier)
-//notes: tags:A Tier
+// Shayura's Wrath (pve)
+//notes: tags:pve
 dimwishlist:item=2022294213&perks=776531651,2048641572
 dimwishlist:item=2022294213&perks=776531651,1926441324
 dimwishlist:item=2022294213&perks=3978468247,2048641572
@@ -1881,8 +1921,8 @@ dimwishlist:item=2022294213&perks=906981559,2048641572
 dimwishlist:item=2022294213&perks=906981559,1926441324
 
 
-// Keraunios (A Tier)
-//notes: tags:A Tier
+// Keraunios (pve)
+//notes: tags:pve
 dimwishlist:item=2029899814&perks=3978468247,4198902903
 dimwishlist:item=2029899814&perks=3978468247,3966416502
 dimwishlist:item=2029899814&perks=3978468247,3218042543
@@ -1909,8 +1949,8 @@ dimwishlist:item=2029899814&perks=3555252274,717070634
 dimwishlist:item=2029899814&perks=3555252274,2633604463
 
 
-// Wicked Sister (A Tier)
-//notes: tags:A Tier
+// Wicked Sister (pve)
+//notes: tags:pve
 dimwishlist:item=2039776723&perks=3987942396,3078487919
 dimwishlist:item=2039776723&perks=3987942396,3751912585
 dimwishlist:item=2039776723&perks=3987942396,3194351027
@@ -1925,8 +1965,8 @@ dimwishlist:item=2039776723&perks=2817499044,331667533
 dimwishlist:item=2039776723&perks=2817499044,2275087323
 
 
-// Corrasion (A Tier)
-//notes: tags:A Tier
+// Corrasion (pve)
+//notes: tags:pve
 dimwishlist:item=2126178511&perks=684456054,2173046394
 dimwishlist:item=2126178511&perks=684456054,1720528630
 dimwishlist:item=2126178511&perks=3828510309,2173046394
@@ -1937,8 +1977,8 @@ dimwishlist:item=2126178511&perks=1771736209,2173046394
 dimwishlist:item=2126178511&perks=1771736209,1720528630
 
 
-// Aberrant Action (S Tier)
-//notes: tags:S Tier
+// Aberrant Action (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=2198166292&perks=3017780555,4293542123
 dimwishlist:item=2198166292&perks=3017780555,2675184851
 dimwishlist:item=2198166292&perks=4223976499,4293542123
@@ -1972,16 +2012,16 @@ dimwishlist:item=2218569744&perks=1906147653,1720528630
 dimwishlist:item=2218569744&perks=1906147653,64866129
 
 
-// Unworthy (S Tier)
-//notes: tags:S Tier
+// Unworthy (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=2226158470&perks=3824105627,2173046394
 dimwishlist:item=2226158470&perks=3824105627,1720528630
 dimwishlist:item=2226158470&perks=1183436451,2173046394
 dimwishlist:item=2226158470&perks=1183436451,1720528630
 
 
-// Patron of Lost Causes (A Tier)
-//notes: tags:A Tier
+// Patron of Lost Causes (pve)
+//notes: tags:pve
 dimwishlist:item=2249996761&perks=247725512,3891536761
 dimwishlist:item=2249996761&perks=247725512,3038247973
 dimwishlist:item=2249996761&perks=247725512,1549370717
@@ -2000,8 +2040,8 @@ dimwishlist:item=2249996761&perks=3120212825,1549370717
 dimwishlist:item=2249996761&perks=3120212825,64866129
 
 
-// Hezen Vengeance (S Tier)
-//notes: tags:S Tier
+// Hezen Vengeance (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=2265407516&perks=3987942396,3078487919
 dimwishlist:item=2265407516&perks=3987942396,1089671869
 dimwishlist:item=2265407516&perks=3987942396,1439600632
@@ -2040,8 +2080,8 @@ dimwishlist:item=2265407516&perks=2682205016,496047945
 dimwishlist:item=2265407516&perks=2682205016,2282937672
 
 
-// Rake Angle (S Tier)
-//notes: tags:S Tier
+// Rake Angle (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=2298039571&perks=3643424744,2978966579
 dimwishlist:item=2298039571&perks=3643424744,344235611
 dimwishlist:item=2298039571&perks=3643424744,1782407750
@@ -2068,8 +2108,8 @@ dimwishlist:item=2298039571&perks=3442762221,1782407750
 dimwishlist:item=2298039571&perks=3442762221,2241043034
 
 
-// Fortunate Star (A Tier)
-//notes: tags:A Tier
+// Fortunate Star (pve)
+//notes: tags:pve
 dimwishlist:item=2326578623&perks=776531651,2048641572
 dimwishlist:item=2326578623&perks=776531651,1926441324
 dimwishlist:item=2326578623&perks=201365942,2048641572
@@ -2080,8 +2120,8 @@ dimwishlist:item=2326578623&perks=3523746922,2048641572
 dimwishlist:item=2326578623&perks=3523746922,1926441324
 
 
-// Corrective Measure (Timelost) (S Tier)
-//notes: tags:S Tier
+// Corrective Measure (Timelost) (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=2334480463&perks=2048641572,4049631843
 dimwishlist:item=2334480463&perks=2048641572,1464081238
 dimwishlist:item=2334480463&perks=2048641572,557221067
@@ -2120,16 +2160,16 @@ dimwishlist:item=2334480463&perks=1906147653,2813913866
 dimwishlist:item=2334480463&perks=1906147653,2896748467
 
 
-// Sightline Survey (S Tier)
-//notes: tags:S Tier
+// Sightline Survey (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=2350330520&perks=3828510309,2173046394
 dimwishlist:item=2350330520&perks=3828510309,1720528630
 dimwishlist:item=2350330520&perks=1771736209,2173046394
 dimwishlist:item=2350330520&perks=1771736209,1720528630
 
 
-// Praedyth's Revenge (Timelost) (S Tier)
-//notes: tags:S Tier
+// Praedyth's Revenge (Timelost) (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=2362652544&perks=1354429876,3078487919
 dimwishlist:item=2362652544&perks=1354429876,1089671869
 dimwishlist:item=2362652544&perks=1354429876,3744057135
@@ -2156,8 +2196,8 @@ dimwishlist:item=2362652544&perks=2817499044,3744057135
 dimwishlist:item=2362652544&perks=2817499044,496047945
 
 
-// Blast Furnace (A Tier)
-//notes: tags:A Tier
+// Blast Furnace (pve)
+//notes: tags:pve
 dimwishlist:item=2372514508&perks=3891536761,3824105627
 dimwishlist:item=2372514508&perks=3891536761,4049631843
 dimwishlist:item=2372514508&perks=3891536761,4104185692
@@ -2184,8 +2224,8 @@ dimwishlist:item=2372514508&perks=2840833776,859780267
 dimwishlist:item=2372514508&perks=2840833776,3007133316
 
 
-// Elsie's Rifle (A Tier)
-//notes: tags:A Tier
+// Elsie's Rifle (pve)
+//notes: tags:pve
 dimwishlist:item=2372514509&perks=776531651,2048641572
 dimwishlist:item=2372514509&perks=776531651,4104185692
 dimwishlist:item=2372514509&perks=776531651,1926441324
@@ -2200,13 +2240,13 @@ dimwishlist:item=2372514509&perks=1119449540,1926441324
 dimwishlist:item=2372514509&perks=1119449540,3007133316
 
 
-// Cartesian Coordinate (A Tier)
-//notes: tags:A Tier
+// Cartesian Coordinate (pve)
+//notes: tags:pve
 dimwishlist:item=2481881293&perks=1556840489,1546637391
 
 
-// Unloved (A Tier)
-//notes: tags:A Tier
+// Unloved (pve)
+//notes: tags:pve
 dimwishlist:item=2485881870&perks=247725512,1089671869
 dimwishlist:item=2485881870&perks=247725512,496047945
 dimwishlist:item=2485881870&perks=247725512,4104185692
@@ -2225,22 +2265,22 @@ dimwishlist:item=2485881870&perks=169755979,4104185692
 dimwishlist:item=2485881870&perks=169755979,3007133316
 
 
-// Scatter Signal (S Tier)
-//notes: tags:S Tier
+// Scatter Signal (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=2558925366&perks=3643424744,2594592626
 dimwishlist:item=2558925366&perks=3643424744,2037312142
 dimwishlist:item=2558925366&perks=2682205016,2594592626
 dimwishlist:item=2558925366&perks=2682205016,2037312142
 
 
-// Basso Ostinato (A Tier)
-//notes: tags:A Tier
+// Basso Ostinato (pve)
+//notes: tags:pve
 dimwishlist:item=2573900604&perks=1631667848,2679249093
 dimwishlist:item=2573900604&perks=1556840489,2679249093
 
 
-// Martyr's Retribution (A Tier)
-//notes: tags:A Tier
+// Martyr's Retribution (pve)
+//notes: tags:pve
 dimwishlist:item=2584830733&perks=3017780555,4293542123
 dimwishlist:item=2584830733&perks=3017780555,1015611457
 dimwishlist:item=2584830733&perks=3017780555,2109543898
@@ -2279,8 +2319,8 @@ dimwishlist:item=2584830733&perks=3528046508,2923251173
 dimwishlist:item=2584830733&perks=3528046508,2799030358
 
 
-// Scintillation (S Tier)
-//notes: tags:S Tier
+// Scintillation (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=2591257541&perks=3418782618,3078487919
 dimwishlist:item=2591257541&perks=3418782618,3708227201
 dimwishlist:item=2591257541&perks=3418782618,3744057135
@@ -2299,8 +2339,8 @@ dimwishlist:item=2591257541&perks=1008128453,3744057135
 dimwishlist:item=2591257541&perks=1008128453,781192741
 
 
-// Liturgy (A Tier)
-//notes: tags:A Tier
+// Liturgy (pve)
+//notes: tags:pve
 dimwishlist:item=2599338624&perks=2039302152,2978966579
 dimwishlist:item=2599338624&perks=2039302152,344235611
 dimwishlist:item=2599338624&perks=2039302152,1556840489
@@ -2327,8 +2367,8 @@ dimwishlist:item=2599338624&perks=2817499044,2396489472
 dimwishlist:item=2599338624&perks=2817499044,598607952
 
 
-// Bitter/Sweet (A Tier)
-//notes: tags:A Tier
+// Bitter/Sweet (pve)
+//notes: tags:pve
 dimwishlist:item=2599338625&perks=3987942396,3078487919
 dimwishlist:item=2599338625&perks=3987942396,3751912585
 dimwishlist:item=2599338625&perks=3987942396,3194351027
@@ -2343,14 +2383,14 @@ dimwishlist:item=2599338625&perks=2817499044,331667533
 dimwishlist:item=2599338625&perks=2817499044,2275087323
 
 
-// Irukandji (A Tier)
-//notes: tags:A Tier
+// Irukandji (pve)
+//notes: tags:pve
 dimwishlist:item=2673925403&perks=1354429876,1771339417
 dimwishlist:item=2673925403&perks=3700496672,1771339417
 
 
-// Riptide (S Tier)
-//notes: tags:S Tier
+// Riptide (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=2715240478&perks=3300816228,2978966579
 dimwishlist:item=2715240478&perks=3300816228,4104185692
 dimwishlist:item=2715240478&perks=3300816228,3523296417
@@ -2389,8 +2429,8 @@ dimwishlist:item=2715240478&perks=2308090567,1906147653
 dimwishlist:item=2715240478&perks=2308090567,3007133316
 
 
-// Zealot's Reward (S Tier)
-//notes: tags:S Tier
+// Zealot's Reward (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=2720651699&perks=3300816228,2594592626
 dimwishlist:item=2720651699&perks=3300816228,1427256713
 dimwishlist:item=2720651699&perks=3300816228,2037312142
@@ -2417,8 +2457,8 @@ dimwishlist:item=2720651699&perks=1926441324,2037312142
 dimwishlist:item=2720651699&perks=1926441324,254337357
 
 
-// Midnight Coup (A Tier)
-//notes: tags:A Tier
+// Midnight Coup (pve)
+//notes: tags:pve
 dimwishlist:item=2763843898&perks=3824105627,3891536761
 dimwishlist:item=2763843898&perks=3824105627,4104185692
 dimwishlist:item=2763843898&perks=3824105627,4049631843
@@ -2457,16 +2497,16 @@ dimwishlist:item=2763843898&perks=64866129,3007133316
 dimwishlist:item=2763843898&perks=64866129,859780267
 
 
-// Path of Least Resistance (A Tier)
-//notes: tags:A Tier
+// Path of Least Resistance (pve)
+//notes: tags:pve
 dimwishlist:item=2827764482&perks=3700496672,2173046394
 dimwishlist:item=2827764482&perks=3700496672,1720528630
 dimwishlist:item=2827764482&perks=2840833776,2173046394
 dimwishlist:item=2827764482&perks=2840833776,1720528630
 
 
-// Song of Ir Yût (S Tier)
-//notes: tags:S Tier
+// Song of Ir Yût (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=2828278545&perks=3523296417,31345821
 dimwishlist:item=2828278545&perks=3523296417,3078487919
 dimwishlist:item=2828278545&perks=3523296417,3751912585
@@ -2493,8 +2533,8 @@ dimwishlist:item=2828278545&perks=461595545,3744057135
 dimwishlist:item=2828278545&perks=461595545,331667533
 
 
-// Until Its Return (S Tier)
-//notes: tags:S Tier
+// Until Its Return (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=2883484461&perks=3300816228,3751912585
 dimwishlist:item=2883484461&perks=3300816228,331667533
 dimwishlist:item=2883484461&perks=3300816228,1546637391
@@ -2521,8 +2561,8 @@ dimwishlist:item=2883484461&perks=2682205016,3708227201
 dimwishlist:item=2883484461&perks=2682205016,781192741
 
 
-// The Supremacy (S Tier)
-//notes: tags:S Tier
+// The Supremacy (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=2884596447&perks=3418782618,3078487919
 dimwishlist:item=2884596447&perks=3418782618,1354429876
 dimwishlist:item=2884596447&perks=3418782618,3891536761
@@ -2561,16 +2601,16 @@ dimwishlist:item=2884596447&perks=906981559,848860060
 dimwishlist:item=2884596447&perks=906981559,1549370717
 
 
-// Cataclysmic (Adept) (A Tier)
-//notes: tags:A Tier
+// Cataclysmic (Adept) (pve)
+//notes: tags:pve
 dimwishlist:item=2886339027&perks=1354429876,3078487919
 dimwishlist:item=2886339027&perks=1354429876,3744057135
 dimwishlist:item=2886339027&perks=848860060,3078487919
 dimwishlist:item=2886339027&perks=848860060,3744057135
 
 
-// The Slammer (S Tier)
-//notes: tags:S Tier
+// The Slammer (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=2889501828&perks=2077819806,3650930298
 dimwishlist:item=2889501828&perks=2077819806,3523296417
 dimwishlist:item=2889501828&perks=2077819806,405677814
@@ -2581,8 +2621,8 @@ dimwishlist:item=2889501828&perks=1618208178,405677814
 dimwishlist:item=2889501828&perks=1618208178,1906147653
 
 
-// Archon's Thunder (A Tier)
-//notes: tags:A Tier
+// Archon's Thunder (pve)
+//notes: tags:pve
 dimwishlist:item=2896109856&perks=1421772400,124408337
 dimwishlist:item=2896109856&perks=1421772400,2109543898
 dimwishlist:item=2896109856&perks=1421772400,557221067
@@ -2621,8 +2661,8 @@ dimwishlist:item=2896109856&perks=848860060,2799030358
 dimwishlist:item=2896109856&perks=848860060,2896748467
 
 
-// Succession (A Tier)
-//notes: tags:A Tier
+// Succession (pve)
+//notes: tags:pve
 dimwishlist:item=2990047042&perks=1523832109,469285294
 dimwishlist:item=2990047042&perks=1523832109,1774574192
 dimwishlist:item=2990047042&perks=1523832109,1546637391
@@ -2637,8 +2677,8 @@ dimwishlist:item=2990047042&perks=3523296417,777774560
 dimwishlist:item=2990047042&perks=3523296417,3418165135
 
 
-// Division (A Tier)
-//notes: tags:A Tier
+// Division (pve)
+//notes: tags:pve
 dimwishlist:item=2992463569&perks=684456054,3708227201
 dimwishlist:item=2992463569&perks=684456054,1720528630
 dimwishlist:item=2992463569&perks=684456054,781192741
@@ -2665,8 +2705,8 @@ dimwishlist:item=2992463569&perks=2785334058,781192741
 dimwishlist:item=2992463569&perks=2785334058,2173046394
 
 
-// Adhortative (A Tier)
-//notes: tags:A Tier
+// Adhortative (pve)
+//notes: tags:pve
 dimwishlist:item=2993554824&perks=3017780555,4293542123
 dimwishlist:item=2993554824&perks=3017780555,2675184851
 dimwishlist:item=2993554824&perks=243981275,4293542123
@@ -2675,8 +2715,8 @@ dimwishlist:item=2993554824&perks=3700496672,4293542123
 dimwishlist:item=2993554824&perks=3700496672,2675184851
 
 
-// Tomorrow's Answer (A Tier)
-//notes: tags:A Tier
+// Tomorrow's Answer (pve)
+//notes: tags:pve
 dimwishlist:item=3009199534&perks=1421772400,3744057135
 dimwishlist:item=3009199534&perks=1421772400,3078487919
 dimwishlist:item=3009199534&perks=1421772400,3194351027
@@ -2715,8 +2755,8 @@ dimwishlist:item=3009199534&perks=2904194311,2282937672
 dimwishlist:item=3009199534&perks=2904194311,1439600632
 
 
-// Jurassic Green (A Tier)
-//notes: tags:A Tier
+// Jurassic Green (pve)
+//notes: tags:pve
 dimwishlist:item=3103255595&perks=3017780555,4293542123
 dimwishlist:item=3103255595&perks=3017780555,2675184851
 dimwishlist:item=3103255595&perks=1119449540,4293542123
@@ -2727,8 +2767,36 @@ dimwishlist:item=3103255595&perks=561986700,4293542123
 dimwishlist:item=3103255595&perks=561986700,2675184851
 
 
-// Forthcoming Deviance (Adept) (S Tier)
-//notes: tags:S Tier
+// PLUG ONE.1 (Adept) (pve)
+//notes: tags:pve
+dimwishlist:item=3106557243&perks=2039302152,1427256713
+dimwishlist:item=3106557243&perks=2039302152,2594592626
+dimwishlist:item=3106557243&perks=2039302152,2173046394
+dimwishlist:item=3106557243&perks=2039302152,254337357
+dimwishlist:item=3106557243&perks=2039302152,2037312142
+dimwishlist:item=3106557243&perks=2039302152,1720528630
+dimwishlist:item=3106557243&perks=1523832109,1427256713
+dimwishlist:item=3106557243&perks=1523832109,2594592626
+dimwishlist:item=3106557243&perks=1523832109,2173046394
+dimwishlist:item=3106557243&perks=1523832109,254337357
+dimwishlist:item=3106557243&perks=1523832109,2037312142
+dimwishlist:item=3106557243&perks=1523832109,1720528630
+dimwishlist:item=3106557243&perks=2396422520,1427256713
+dimwishlist:item=3106557243&perks=2396422520,2594592626
+dimwishlist:item=3106557243&perks=2396422520,2173046394
+dimwishlist:item=3106557243&perks=2396422520,254337357
+dimwishlist:item=3106557243&perks=2396422520,2037312142
+dimwishlist:item=3106557243&perks=2396422520,1720528630
+dimwishlist:item=3106557243&perks=461595545,1427256713
+dimwishlist:item=3106557243&perks=461595545,2594592626
+dimwishlist:item=3106557243&perks=461595545,2173046394
+dimwishlist:item=3106557243&perks=461595545,254337357
+dimwishlist:item=3106557243&perks=461595545,2037312142
+dimwishlist:item=3106557243&perks=461595545,1720528630
+
+
+// Forthcoming Deviance (Adept) (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=3123651616&perks=951095735,2224838837
 dimwishlist:item=3123651616&perks=951095735,2048641572
 dimwishlist:item=3123651616&perks=951095735,2396489472
@@ -2767,8 +2835,8 @@ dimwishlist:item=3123651616&perks=1906147653,1817983009
 dimwishlist:item=3123651616&perks=1906147653,598607952
 
 
-// Swordbreaker (A Tier)
-//notes: tags:A Tier
+// Swordbreaker (pve)
+//notes: tags:pve
 dimwishlist:item=3163900678&perks=691659142,2679249093
 dimwishlist:item=3163900678&perks=691659142,788178929
 dimwishlist:item=3163900678&perks=3523296417,2679249093
@@ -2779,8 +2847,8 @@ dimwishlist:item=3163900678&perks=1906147653,2679249093
 dimwishlist:item=3163900678&perks=1906147653,788178929
 
 
-// Multimach CCX (A Tier)
-//notes: tags:A Tier
+// Multimach CCX (pve)
+//notes: tags:pve
 dimwishlist:item=3211624072&perks=243981275,4104185692
 dimwishlist:item=3211624072&perks=243981275,3007133316
 dimwishlist:item=3211624072&perks=243981275,3891536761
@@ -2791,8 +2859,8 @@ dimwishlist:item=3211624072&perks=984655331,3891536761
 dimwishlist:item=3211624072&perks=984655331,1549370717
 
 
-// Adamantite (A Tier)
-//notes: tags:A Tier
+// Adamantite (pve)
+//notes: tags:pve
 dimwishlist:item=3229982889&perks=692399809,243981275
 dimwishlist:item=3229982889&perks=692399809,960997401
 dimwishlist:item=3229982889&perks=692399809,4104185692
@@ -2831,8 +2899,8 @@ dimwishlist:item=3229982889&perks=1906147653,3244229373
 dimwishlist:item=3229982889&perks=1906147653,3007133316
 
 
-// The Other Half (S Tier)
-//notes: tags:S Tier
+// The Other Half (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=3257091167&perks=2077819806,4104185692
 dimwishlist:item=3257091167&perks=2077819806,3708227201
 dimwishlist:item=3257091167&perks=2077819806,3913600130
@@ -2847,8 +2915,8 @@ dimwishlist:item=3257091167&perks=1618208178,781192741
 dimwishlist:item=3257091167&perks=1618208178,147913470
 
 
-// Posterity (S Tier)
-//notes: tags:S Tier
+// Posterity (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=3281285075&perks=2173046394,4104185692
 dimwishlist:item=3281285075&perks=2173046394,3201496230
 dimwishlist:item=3281285075&perks=2173046394,3007133316
@@ -2859,8 +2927,8 @@ dimwishlist:item=3281285075&perks=1720528630,3007133316
 dimwishlist:item=3281285075&perks=1720528630,1545231802
 
 
-// Randy's Throwing Knife (A Tier)
-//notes: tags:A Tier
+// Randy's Throwing Knife (pve)
+//notes: tags:pve
 dimwishlist:item=3292795429&perks=247725512,3891536761
 dimwishlist:item=3292795429&perks=247725512,1549370717
 dimwishlist:item=3292795429&perks=3978468247,3891536761
@@ -2871,8 +2939,8 @@ dimwishlist:item=3292795429&perks=906981559,3891536761
 dimwishlist:item=3292795429&perks=906981559,1549370717
 
 
-// PLUG ONE.1 (A Tier)
-//notes: tags:A Tier
+// PLUG ONE.1 (pve)
+//notes: tags:pve
 dimwishlist:item=3293524502&perks=1523832109,1427256713
 dimwishlist:item=3293524502&perks=1523832109,2594592626
 dimwishlist:item=3293524502&perks=1523832109,2173046394
@@ -2887,8 +2955,8 @@ dimwishlist:item=3293524502&perks=2039302152,2037312142
 dimwishlist:item=3293524502&perks=2039302152,1720528630
 
 
-// Unvoiced (S Tier)
-//notes: tags:S Tier
+// Unvoiced (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=3360937899&perks=3201496230,3078487919
 dimwishlist:item=3360937899&perks=3201496230,1546637391
 dimwishlist:item=3360937899&perks=3201496230,3744057135
@@ -2907,8 +2975,8 @@ dimwishlist:item=3360937899&perks=2817499044,3744057135
 dimwishlist:item=3360937899&perks=2817499044,3418165135
 
 
-// Bequest (S Tier)
-//notes: tags:S Tier
+// Bequest (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=3366545721&perks=1749209109,3708227201
 dimwishlist:item=3366545721&perks=1749209109,1546637391
 dimwishlist:item=3366545721&perks=1749209109,781192741
@@ -2919,8 +2987,8 @@ dimwishlist:item=3366545721&perks=4085959009,781192741
 dimwishlist:item=3366545721&perks=4085959009,3418165135
 
 
-// Indebted Kindness (A Tier)
-//notes: tags:A Tier
+// Indebted Kindness (pve)
+//notes: tags:pve
 dimwishlist:item=3381450498&perks=951095735,2173046394
 dimwishlist:item=3381450498&perks=951095735,3708227201
 dimwishlist:item=3381450498&perks=951095735,3673922083
@@ -2929,8 +2997,8 @@ dimwishlist:item=3381450498&perks=1556840489,3708227201
 dimwishlist:item=3381450498&perks=1556840489,3673922083
 
 
-// Tyranny of Heaven (A Tier)
-//notes: tags:A Tier
+// Tyranny of Heaven (pve)
+//notes: tags:pve
 dimwishlist:item=3388655311&perks=2848615171,4293542123
 dimwishlist:item=3388655311&perks=2848615171,4049631843
 dimwishlist:item=3388655311&perks=2848615171,2675184851
@@ -2957,8 +3025,8 @@ dimwishlist:item=3388655311&perks=1551736345,2675184851
 dimwishlist:item=3388655311&perks=1551736345,859780267
 
 
-// Anamnesis (A Tier)
-//notes: tags:A Tier
+// Anamnesis (pve)
+//notes: tags:pve
 dimwishlist:item=3417731926&perks=776531651,2048641572
 dimwishlist:item=3417731926&perks=776531651,1464081238
 dimwishlist:item=3417731926&perks=776531651,3365897133
@@ -2997,8 +3065,8 @@ dimwishlist:item=3417731926&perks=3523746922,2813913866
 dimwishlist:item=3417731926&perks=3523746922,1551736345
 
 
-// Gridskipper (S Tier)
-//notes: tags:S Tier
+// Gridskipper (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=3433930495&perks=776531651,2048641572
 dimwishlist:item=3433930495&perks=776531651,1926441324
 dimwishlist:item=3433930495&perks=3523296417,2048641572
@@ -3009,8 +3077,8 @@ dimwishlist:item=3433930495&perks=1906147653,2048641572
 dimwishlist:item=3433930495&perks=1906147653,1926441324
 
 
-// Exalted Truth (A Tier)
-//notes: tags:A Tier
+// Exalted Truth (pve)
+//notes: tags:pve
 dimwishlist:item=3436626079&perks=2048641572,776531651
 dimwishlist:item=3436626079&perks=2048641572,2541826827
 dimwishlist:item=3436626079&perks=2048641572,4049631843
@@ -3025,8 +3093,8 @@ dimwishlist:item=3436626079&perks=1926441324,1464081238
 dimwishlist:item=3436626079&perks=1926441324,2813913866
 
 
-// Unwavering Duty (Adept) (A Tier)
-//notes: tags:A Tier
+// Unwavering Duty (Adept) (pve)
+//notes: tags:pve
 dimwishlist:item=3444632029&perks=3300816228,4293542123
 dimwishlist:item=3444632029&perks=3300816228,557221067
 dimwishlist:item=3444632029&perks=3300816228,3751912585
@@ -3038,8 +3106,8 @@ dimwishlist:item=3444632029&perks=2869569095,557221067
 dimwishlist:item=3444632029&perks=2869569095,3751912585
 
 
-// Vision of Confluence (A Tier)
-//notes: tags:A Tier
+// Vision of Confluence (pve)
+//notes: tags:pve
 dimwishlist:item=3444688218&perks=4293542123,3824105627
 dimwishlist:item=3444688218&perks=4293542123,3038247973
 dimwishlist:item=3444688218&perks=4293542123,4104185692
@@ -3078,8 +3146,8 @@ dimwishlist:item=3444688218&perks=1563455254,64866129
 dimwishlist:item=3444688218&perks=1563455254,3007133316
 
 
-// Mistral Lift (S Tier)
-//notes: tags:S Tier
+// Mistral Lift (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=3483485727&perks=3987942396,3078487919
 dimwishlist:item=3483485727&perks=3987942396,3744057135
 dimwishlist:item=3483485727&perks=968510818,3078487919
@@ -3090,8 +3158,8 @@ dimwishlist:item=3483485727&perks=424370782,3078487919
 dimwishlist:item=3483485727&perks=424370782,3744057135
 
 
-// Summum Bonum (S Tier)
-//notes: tags:S Tier
+// Summum Bonum (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=3569407878&perks=1749209109,3640170453
 dimwishlist:item=3569407878&perks=1749209109,3913600130
 dimwishlist:item=3569407878&perks=1749209109,3708227201
@@ -3130,16 +3198,16 @@ dimwishlist:item=3569407878&perks=1164602481,147913470
 dimwishlist:item=3569407878&perks=1164602481,781192741
 
 
-// Techeun Force (A Tier)
-//notes: tags:A Tier
+// Techeun Force (pve)
+//notes: tags:pve
 dimwishlist:item=3591141932&perks=3418782618,2594592626
 dimwishlist:item=3591141932&perks=3418782618,2037312142
 dimwishlist:item=3591141932&perks=1563455254,2594592626
 dimwishlist:item=3591141932&perks=1563455254,2037312142
 
 
-// Pro Memoria (S Tier)
-//notes: tags:S Tier
+// Pro Memoria (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=3605603507&perks=3523296417,2109543898
 dimwishlist:item=3605603507&perks=3523296417,3078487919
 dimwishlist:item=3605603507&perks=3523296417,2799030358
@@ -3178,8 +3246,8 @@ dimwishlist:item=3605603507&perks=102912326,2848615171
 dimwishlist:item=3605603507&perks=102912326,169755979
 
 
-// Succession (A Tier)
-//notes: tags:A Tier
+// Succession (pve)
+//notes: tags:pve
 dimwishlist:item=3612338554&perks=1523832109,469285294
 dimwishlist:item=3612338554&perks=1523832109,1546637391
 dimwishlist:item=3612338554&perks=1523832109,3201496230
@@ -3218,8 +3286,8 @@ dimwishlist:item=3612338554&perks=906981559,3418165135
 dimwishlist:item=3612338554&perks=906981559,1545231802
 
 
-// Accrued Redemption (A Tier)
-//notes: tags:A Tier
+// Accrued Redemption (pve)
+//notes: tags:pve
 dimwishlist:item=3621336854&perks=201365942,3891536761
 dimwishlist:item=3621336854&perks=201365942,1549370717
 dimwishlist:item=3621336854&perks=201365942,3824105627
@@ -3230,8 +3298,8 @@ dimwishlist:item=3621336854&perks=3523746922,3824105627
 dimwishlist:item=3621336854&perks=3523746922,1183436451
 
 
-// Hezen Vengeance (Timelost) (S Tier)
-//notes: tags:S Tier
+// Hezen Vengeance (Timelost) (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=3623686757&perks=3987942396,3078487919
 dimwishlist:item=3623686757&perks=3987942396,1089671869
 dimwishlist:item=3623686757&perks=3987942396,1439600632
@@ -3270,8 +3338,8 @@ dimwishlist:item=3623686757&perks=2682205016,496047945
 dimwishlist:item=3623686757&perks=2682205016,2282937672
 
 
-// Arcane Embrace (A Tier)
-//notes: tags:A Tier
+// Arcane Embrace (pve)
+//notes: tags:pve
 dimwishlist:item=3649985571&perks=1354429876,555281244
 dimwishlist:item=3649985571&perks=1354429876,3708227201
 dimwishlist:item=3649985571&perks=1354429876,2173046394
@@ -3310,8 +3378,8 @@ dimwishlist:item=3649985571&perks=402033656,781192741
 dimwishlist:item=3649985571&perks=402033656,1720528630
 
 
-// Corrective Measure (S Tier)
-//notes: tags:S Tier
+// Corrective Measure (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=3654744298&perks=2048641572,4049631843
 dimwishlist:item=3654744298&perks=2048641572,1464081238
 dimwishlist:item=3654744298&perks=2048641572,557221067
@@ -3350,8 +3418,8 @@ dimwishlist:item=3654744298&perks=1906147653,2813913866
 dimwishlist:item=3654744298&perks=1906147653,2896748467
 
 
-// Division (Adept) (A Tier)
-//notes: tags:A Tier
+// Division (Adept) (pve)
+//notes: tags:pve
 dimwishlist:item=3734001727&perks=684456054,2173046394
 dimwishlist:item=3734001727&perks=684456054,3708227201
 dimwishlist:item=3734001727&perks=684456054,1720528630
@@ -3378,8 +3446,8 @@ dimwishlist:item=3734001727&perks=402033656,1720528630
 dimwishlist:item=3734001727&perks=402033656,781192741
 
 
-// Dead Weight (A Tier)
-//notes: tags:A Tier
+// Dead Weight (pve)
+//notes: tags:pve
 dimwishlist:item=3738678140&perks=1631667848,2679249093
 dimwishlist:item=3738678140&perks=1631667848,4104185692
 dimwishlist:item=3738678140&perks=1631667848,3708227201
@@ -3391,8 +3459,8 @@ dimwishlist:item=3738678140&perks=1556840489,4104185692
 dimwishlist:item=3738678140&perks=1556840489,3708227201
 
 
-// The Riposte (A Tier)
-//notes: tags:A Tier
+// The Riposte (pve)
+//notes: tags:pve
 dimwishlist:item=3754408118&perks=776531651,2048641572
 dimwishlist:item=3754408118&perks=776531651,1926441324
 dimwishlist:item=3754408118&perks=2541826827,2048641572
@@ -3403,8 +3471,8 @@ dimwishlist:item=3754408118&perks=1771736209,2048641572
 dimwishlist:item=3754408118&perks=1771736209,1926441324
 
 
-// Ill Omen (A Tier)
-//notes: tags:A Tier
+// Ill Omen (pve)
+//notes: tags:pve
 dimwishlist:item=3794274730&perks=243981275,3913600130
 dimwishlist:item=3794274730&perks=243981275,147913470
 dimwishlist:item=3794274730&perks=243981275,781192741
@@ -3423,8 +3491,8 @@ dimwishlist:item=3794274730&perks=4085959009,781192741
 dimwishlist:item=3794274730&perks=4085959009,3708227201
 
 
-// Sovereignty (A Tier)
-//notes: tags:A Tier
+// Sovereignty (pve)
+//notes: tags:pve
 dimwishlist:item=3818198556&perks=3978468247,1134488199
 dimwishlist:item=3818198556&perks=3978468247,2904194311
 dimwishlist:item=3818198556&perks=3523296417,1134488199
@@ -3435,16 +3503,16 @@ dimwishlist:item=3818198556&perks=1906147653,1134488199
 dimwishlist:item=3818198556&perks=1906147653,2904194311
 
 
-// Vantage Point (S Tier)
-//notes: tags:S Tier
+// Vantage Point (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=3830941962&perks=684456054,3966416502
 dimwishlist:item=3830941962&perks=684456054,717070634
 dimwishlist:item=3830941962&perks=2785334058,3966416502
 dimwishlist:item=3830941962&perks=2785334058,717070634
 
 
-// Praedyth's Revenge (S Tier)
-//notes: tags:S Tier
+// Praedyth's Revenge (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=3844610113&perks=1354429876,3078487919
 dimwishlist:item=3844610113&perks=1354429876,1089671869
 dimwishlist:item=3844610113&perks=1354429876,3744057135
@@ -3471,8 +3539,8 @@ dimwishlist:item=3844610113&perks=2817499044,3744057135
 dimwishlist:item=3844610113&perks=2817499044,496047945
 
 
-// Axial Lacuna (A Tier)
-//notes: tags:A Tier
+// Axial Lacuna (pve)
+//notes: tags:pve
 dimwishlist:item=3867373351&perks=1523832109,2594592626
 dimwishlist:item=3867373351&perks=1523832109,2037312142
 dimwishlist:item=3867373351&perks=1523832109,3708227201
@@ -3499,8 +3567,8 @@ dimwishlist:item=3867373351&perks=1008128453,3708227201
 dimwishlist:item=3867373351&perks=1008128453,781192741
 
 
-// Lotus-Eater (S Tier)
-//notes: tags:S Tier
+// Lotus-Eater (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=3922217119&perks=776531651,2048641572
 dimwishlist:item=3922217119&perks=776531651,1134488199
 dimwishlist:item=3922217119&perks=776531651,859780267
@@ -3539,8 +3607,24 @@ dimwishlist:item=3922217119&perks=2840833776,2904194311
 dimwishlist:item=3922217119&perks=2840833776,4049631843
 
 
-// Rake Angle (Adept) (S Tier)
-//notes: tags:S Tier
+// Word of Crota (Adept) (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3926103986&perks=2848615171,2048641572
+dimwishlist:item=3926103986&perks=2848615171,1926441324
+dimwishlist:item=3926103986&perks=776531651,2048641572
+dimwishlist:item=3926103986&perks=776531651,1926441324
+dimwishlist:item=3926103986&perks=3828510309,2048641572
+dimwishlist:item=3926103986&perks=3828510309,1926441324
+dimwishlist:item=3926103986&perks=169755979,2048641572
+dimwishlist:item=3926103986&perks=169755979,1926441324
+dimwishlist:item=3926103986&perks=2541826827,2048641572
+dimwishlist:item=3926103986&perks=2541826827,1926441324
+dimwishlist:item=3926103986&perks=1771736209,2048641572
+dimwishlist:item=3926103986&perks=1771736209,1926441324
+
+
+// Rake Angle (Adept) (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=3997086838&perks=3643424744,2978966579
 dimwishlist:item=3997086838&perks=3643424744,344235611
 dimwishlist:item=3997086838&perks=3643424744,1782407750
@@ -3567,8 +3651,8 @@ dimwishlist:item=3997086838&perks=3442762221,1782407750
 dimwishlist:item=3997086838&perks=3442762221,2241043034
 
 
-// Heliocentric QSc (S Tier)
-//notes: tags:S Tier
+// Heliocentric QSc (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=3998080529&perks=3017780555,4293542123
 dimwishlist:item=3998080529&perks=3017780555,4104185692
 dimwishlist:item=3998080529&perks=3017780555,3708227201
@@ -3595,8 +3679,8 @@ dimwishlist:item=3998080529&perks=1906147653,3007133316
 dimwishlist:item=3998080529&perks=1906147653,781192741
 
 
-// Unexpected Resurgence (S Tier)
-//notes: tags:S Tier
+// Unexpected Resurgence (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=4005780578&perks=3300816228,4104185692
 dimwishlist:item=4005780578&perks=3300816228,1782407750
 dimwishlist:item=4005780578&perks=3300816228,2173046394
@@ -3605,8 +3689,8 @@ dimwishlist:item=4005780578&perks=951095735,1782407750
 dimwishlist:item=4005780578&perks=951095735,2173046394
 
 
-// Psychopomp (S Tier)
-//notes: tags:S Tier
+// Psychopomp (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=4028298892&perks=3987942396,1089671869
 dimwishlist:item=4028298892&perks=3987942396,496047945
 dimwishlist:item=4028298892&perks=3987942396,4104185692
@@ -3645,8 +3729,48 @@ dimwishlist:item=4028298892&perks=536173722,3218042543
 dimwishlist:item=4028298892&perks=536173722,2633604463
 
 
-// Fatebringer (A Tier)
-//notes: tags:A Tier
+// The Mountaintop (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=4043921923&perks=3300816228,4104185692
+dimwishlist:item=4043921923&perks=3300816228,469285294
+dimwishlist:item=4043921923&perks=3300816228,1546637391
+dimwishlist:item=4043921923&perks=3300816228,3007133316
+dimwishlist:item=4043921923&perks=3300816228,2748801589
+dimwishlist:item=4043921923&perks=3300816228,3418165135
+dimwishlist:item=4043921923&perks=3643424744,4104185692
+dimwishlist:item=4043921923&perks=3643424744,469285294
+dimwishlist:item=4043921923&perks=3643424744,1546637391
+dimwishlist:item=4043921923&perks=3643424744,3007133316
+dimwishlist:item=4043921923&perks=3643424744,2748801589
+dimwishlist:item=4043921923&perks=3643424744,3418165135
+dimwishlist:item=4043921923&perks=951095735,4104185692
+dimwishlist:item=4043921923&perks=951095735,469285294
+dimwishlist:item=4043921923&perks=951095735,1546637391
+dimwishlist:item=4043921923&perks=951095735,3007133316
+dimwishlist:item=4043921923&perks=951095735,2748801589
+dimwishlist:item=4043921923&perks=951095735,3418165135
+dimwishlist:item=4043921923&perks=3528046508,4104185692
+dimwishlist:item=4043921923&perks=3528046508,469285294
+dimwishlist:item=4043921923&perks=3528046508,1546637391
+dimwishlist:item=4043921923&perks=3528046508,3007133316
+dimwishlist:item=4043921923&perks=3528046508,2748801589
+dimwishlist:item=4043921923&perks=3528046508,3418165135
+dimwishlist:item=4043921923&perks=2682205016,4104185692
+dimwishlist:item=4043921923&perks=2682205016,469285294
+dimwishlist:item=4043921923&perks=2682205016,1546637391
+dimwishlist:item=4043921923&perks=2682205016,3007133316
+dimwishlist:item=4043921923&perks=2682205016,2748801589
+dimwishlist:item=4043921923&perks=2682205016,3418165135
+dimwishlist:item=4043921923&perks=3878366039,4104185692
+dimwishlist:item=4043921923&perks=3878366039,469285294
+dimwishlist:item=4043921923&perks=3878366039,1546637391
+dimwishlist:item=4043921923&perks=3878366039,3007133316
+dimwishlist:item=4043921923&perks=3878366039,2748801589
+dimwishlist:item=4043921923&perks=3878366039,3418165135
+
+
+// Fatebringer (pve)
+//notes: tags:pve
 dimwishlist:item=4184168210&perks=3038247973,4104185692
 dimwishlist:item=4184168210&perks=3038247973,3824105627
 dimwishlist:item=4184168210&perks=3038247973,4049631843
@@ -3673,8 +3797,8 @@ dimwishlist:item=4184168210&perks=1549370717,1183436451
 dimwishlist:item=4184168210&perks=1549370717,859780267
 
 
-// Veleda-F (A Tier)
-//notes: tags:A Tier
+// Veleda-F (pve)
+//notes: tags:pve
 dimwishlist:item=4200122994&perks=1421772400,1134488199
 dimwishlist:item=4200122994&perks=1421772400,2904194311
 dimwishlist:item=4200122994&perks=1821614984,1134488199
@@ -3685,8 +3809,8 @@ dimwishlist:item=4200122994&perks=1942880504,1134488199
 dimwishlist:item=4200122994&perks=1942880504,2904194311
 
 
-// Fatebringer (Timelost) (A Tier)
-//notes: tags:A Tier
+// Fatebringer (Timelost) (pve)
+//notes: tags:pve
 dimwishlist:item=4219826183&perks=3891536761,3824105627
 dimwishlist:item=4219826183&perks=3891536761,4049631843
 dimwishlist:item=4219826183&perks=3891536761,4104185692
@@ -3713,8 +3837,8 @@ dimwishlist:item=4219826183&perks=1549370717,859780267
 dimwishlist:item=4219826183&perks=1549370717,3007133316
 
 
-// Avalanche (A Tier)
-//notes: tags:A Tier
+// Avalanche (pve)
+//notes: tags:pve
 dimwishlist:item=4220529694&perks=3300816228,4293542123
 dimwishlist:item=4220529694&perks=3300816228,3751912585
 dimwishlist:item=4220529694&perks=3300816228,2675184851
@@ -3741,8 +3865,8 @@ dimwishlist:item=4220529694&perks=1563455254,2675184851
 dimwishlist:item=4220529694&perks=1563455254,331667533
 
 
-// Commemoration (S Tier)
-//notes: tags:S Tier
+// Commemoration (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=4230965989&perks=1523832109,557221067
 dimwishlist:item=4230965989&perks=1523832109,776531651
 dimwishlist:item=4230965989&perks=1523832109,2896748467
@@ -3769,8 +3893,8 @@ dimwishlist:item=4230965989&perks=4245865861,2896748467
 dimwishlist:item=4230965989&perks=4245865861,2541826827
 
 
-// VS Pyroelectric Propellant (A Tier)
-//notes: tags:A Tier
+// VS Pyroelectric Propellant (pve)
+//notes: tags:pve
 dimwishlist:item=4232480042&perks=243981275,3966416502
 dimwishlist:item=4232480042&perks=243981275,717070634
 dimwishlist:item=4232480042&perks=984655331,3966416502
@@ -3781,8 +3905,8 @@ dimwishlist:item=4232480042&perks=2785334058,3966416502
 dimwishlist:item=4232480042&perks=2785334058,717070634
 
 
-// Marcato-45 (A Tier)
-//notes: tags:A Tier
+// Marcato-45 (pve)
+//notes: tags:pve
 dimwishlist:item=4233375372&perks=3523296417,95528736
 dimwishlist:item=4233375372&perks=3523296417,2610012052
 dimwishlist:item=4233375372&perks=3523296417,831391274
@@ -3797,8 +3921,8 @@ dimwishlist:item=4233375372&perks=1906147653,4290541820
 dimwishlist:item=4233375372&perks=1906147653,102912326
 
 
-// Heritage (A Tier)
-//notes: tags:A Tier
+// Heritage (pve)
+//notes: tags:pve
 dimwishlist:item=4248569242&perks=1523832109,469285294
 dimwishlist:item=4248569242&perks=1523832109,3335686050
 dimwishlist:item=4248569242&perks=3523296417,469285294
@@ -3807,3 +3931,5 @@ dimwishlist:item=4248569242&perks=461595545,469285294
 dimwishlist:item=4248569242&perks=461595545,3335686050
 dimwishlist:item=4248569242&perks=1906147653,469285294
 dimwishlist:item=4248569242&perks=1906147653,3335686050
+
+
