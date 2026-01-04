@@ -1,0 +1,39 @@
+{
+  "wishlist": [
+    {
+      "name": "Armes Rang S",
+      "items": [
+        {
+          "name": "No Hesitation",
+          "perks": ["Physic", "Demolitionist", "Incandescent", "Attrition Orbs", "Circle of Life"],
+          "notes": "on-demand survivability on any class, Benevolence synergy",
+          "tag": "S"
+        },
+        {
+          "name": "Non-Denouement",
+          "perks": ["Dragonfly", "Archer's Tempo", "Shoot to Loot", "Voltshot", "Explosive Head", "Chaos Reshaped"],
+          "notes": "prime example of double splash over arrow uptime usefulness",
+          "tag": "S"
+        },
+        {
+          "name": "Word of Crota",
+          "perks": ["Repulsor Brace", "Dragonfly", "Destabilizing Rounds"],
+          "notes": "great frame, excellent perks, amazing origin",
+          "tag": "S"
+        },
+        {
+          "name": "Posterity",
+          "perks": ["Voltshot", "Frenzy", "Redirection"],
+          "notes": "great frame, splash + damage, solid origin",
+          "tag": "S"
+        },
+        {
+          "name": "Modified B-7 Pistol",
+          "perks": ["Firefly", "Rimestealer", "Rapid Hit", "Headstone", "Crystalline Corpsebloom"],
+          "notes": "better version of Solemn Remembrance with Crystalline access",
+          "tag": "S"
+        }
+      ]
+    }
+  ]
+}
